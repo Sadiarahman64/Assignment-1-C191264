@@ -8,7 +8,6 @@ const incomeList = document.getElementById("income-list");
 const expenseList = document.getElementById("expense-list");
 const totalIncome = document.getElementById("total-income");
 
-
 var requestOptions = {
     method: 'GET',
     redirect: 'follow'
